@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%8F00FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+IkbalKhz;Student+of+Informatics;Passionate+about+Technology" alt="Animated Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%8F00FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+IkbalKhz;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
     </h1>
     <br>
     <h1 align="center">
@@ -10,7 +10,7 @@
      </h1>
 </div>
 
- 
+
 
 ## My Statistics
 <p align="center">
