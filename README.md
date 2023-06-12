@@ -1,7 +1,9 @@
- </div>
+ <div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%FFFF00&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+IkbalKhz;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
     </div>
+ </div>
+ 
 
 ## My Statistics
 <p align="center">
