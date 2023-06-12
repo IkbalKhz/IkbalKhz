@@ -1,13 +1,16 @@
 <div align="center">
-    <h1>👋 Hey there, I'm IkbalKhz</h1>
-    <h3>🎓 Computer Science Student | Innovator | Dreamer</h3>
+    <h1>👋 Halo, Saya IkbalKhz</h1>
+    <h3>🎓 Mahasiswa Informatika | Pencinta Teknologi | Pemimpi</h3>
     <br>
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-    <h2>🚀 Passionate about Technology and Creating Impactful Solutions</h2>
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    <marquee behavior="scroll" direction="left">
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+        <h2>🚀 Menjadi Penggerak Perubahan melalui Teknologi</h2>
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    </marquee>
     <br>
-    <h3>✨ Let's turn ideas into reality and make a difference! ✨</h3>
+    <h3>✨ Bersama kita wujudkan ide menjadi kenyataan dan berbuat beda! ✨</h3>
 </div>
+
 
 
  
