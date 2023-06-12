@@ -1,12 +1,15 @@
- <div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%8F00FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+IkbalKhz;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
-     <br>
-     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-     &nbsp; PENGANGGURAN &nbsp;
-     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-    </div>
- </div>
+<div align="center">
+    <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%8F00FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+IkbalKhz;Student+of+Informatics;Passionate+about+Technology" alt="Animated Headline" />
+    </h1>
+    <br>
+    <h2 align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Lightning Icon" />
+        &nbsp; CURRENTLY UNEMPLOYED &nbsp;
+        <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" alt="Lightning Icon" />
+    </h2>
+</div>
+
  
 
 ## My Statistics
