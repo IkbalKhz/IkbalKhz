@@ -14,8 +14,9 @@
 
 ## My Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkbalKhz&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IkbalKhz&show_icons=true&include_all_commits=true&theme=dracula" alt="IkbalKhz's GitHub stats" />
 </p>
+
 
 
 ## 🌐 Socials:
