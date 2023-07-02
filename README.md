@@ -14,16 +14,6 @@
 </div>
 
 
-
-## My Statistics
-<p align="center">
-  <a href="https://github.com/IkbalKhz">
-    <img src="https://github-readme-stats.vercel.app/api?username=IkbalKhz&show_icons=true&include_all_commits=true&theme=dracula" alt="IkbalKhz's GitHub stats" />
-  </a>
-</p>
-
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100090807258093) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ikbalkhz_/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/IkbalKhz) 
 
